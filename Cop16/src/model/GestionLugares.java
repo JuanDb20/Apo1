@@ -37,7 +37,6 @@ public class GestionLugares {
         List<Lugar> lugares = new ArrayList<>();
         Map<String, Integer> departamentoCount = new HashMap<>();
 
-        while (true) {
               // Menú de opciones para el usuario
             System.out.println("# Bienvenido voluntario a la aplicación de Gestión de Lugares Biodiversos COP 16 Cali - Colombia.");
             System.out.println("# Te presentamos las siguientes opciones, ingresa:");
@@ -85,7 +84,7 @@ public class GestionLugares {
                 default:
                 // Opción inválida
                     System.out.println("# Opción inválida. Por favor, ingresa una opción válida.");
-            }
+            
         }
     }
 }
