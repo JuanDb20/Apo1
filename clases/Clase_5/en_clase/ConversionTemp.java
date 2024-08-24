@@ -30,7 +30,7 @@ public class ConversionTemp {
               System.out.println("# Ingresa los grados Kelvin:");
               double kelvin = scanner.nextDouble();
               double celsius3
-            = kelvin - 273.15;
+                = kelvin - 273.15;
             System.out.println("# Los grados Celsius son: " + celsius3);
             break;
             case 4:
