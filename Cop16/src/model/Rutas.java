@@ -6,7 +6,7 @@ public class Rutas {
      * Método principal que ejecuta la aplicación.
      * Solicita datos del usuario, selecciona la ruta, solicita y verifica condiciones meteorológicas,
      * calcula el número de buses necesarios, y muestra toda la información.
-     * 
+     * @author Juan Diego Balanta Molina A00407538 y Daniel Francisco Varela A00407620 - Cali, Colombia
      * @param args Argumentos de la línea de comandos.
      */
     public static void main(String[] args) {
