@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Adivinanza","l":"Adivinanza()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Adivinanza","l":"generarNumeroAleatorio()"},{"p":"<Unnamed>","c":"Adivinanza","l":"jugarAdivinanza()"},{"p":"<Unnamed>","c":"Adivinanza","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
