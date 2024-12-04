@@ -1,0 +1,2 @@
+Nos capturan tanto atributos como métodos
+El método constructor me permite crear un caso esppecifico, es muy importante (
